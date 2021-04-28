@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "splodeyCats": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}

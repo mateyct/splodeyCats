@@ -1,0 +1,16 @@
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\splodeyCats.exe
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\splodeyCats.deps.json
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\splodeyCats.runtimeconfig.json
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\splodeyCats.runtimeconfig.dev.json
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\splodeyCats.dll
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\ref\splodeyCats.dll
+C:\Users\mason.tolley\Documents\cs\splodeyCats\bin\Debug\net5.0\splodeyCats.pdb
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.csprojAssemblyReference.cache
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.AssemblyInfoInputs.cache
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.AssemblyInfo.cs
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.csproj.CoreCompileInputs.cache
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.dll
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\ref\splodeyCats.dll
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.pdb
+C:\Users\mason.tolley\Documents\cs\splodeyCats\obj\Debug\net5.0\splodeyCats.genruntimeconfig.cache
