@@ -6,8 +6,17 @@ using System.Threading.Tasks;
 
 namespace splodeyCats {
     class ComboCard : Card {
-        public ComboCard(string name) : base(name) {
+        public ComboType type;
 
+        public ComboCard(string name, ComboType _type) : base(name) {
+            type = _type;
         }
+    }
+    enum ComboType {
+        Burrito,
+        Cantelope,
+        Yams,
+        Mustache,
+        RGBCat
     }
 }

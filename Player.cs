@@ -13,11 +13,19 @@ namespace splodeyCats {
 
         public List<Card> hand {get; set;}
 
+        public int Number { get; }
+
+        public int TurnsLeft { get; set; }
+
+        public bool Dead { get; set; }
+
         public Player (int number) {
             Name = "Player " + number;
             Name = ChooseName();
+            Number = number;
             Sploded = false;
             hand = new List<Card>();
+            TurnsLeft = 0;
         }
 
         private string ChooseName() {
