@@ -114,6 +114,9 @@ namespace splodeyCats {
                     currentPlayer = (currentPlayer + 1) % numPlayers;
                     continue;
                 }
+                if(players[locCur].TurnsLeft < 0) {
+                    players[locCur].TurnsLeft = 0;
+                }
                 players[locCur].TurnsLeft++;
                 while (players[locCur].TurnsLeft > 0) {
                     Console.WriteLine(players[locCur].Name);
@@ -148,6 +151,9 @@ namespace splodeyCats {
                             
                         }
                         while (input == 0);
+                        if(players[locCur].TurnsLeft <= 0) {
+                            break;
+                        }
                         if (input == actionIndex) {
                             Draw(locCur);
                             players[locCur].TurnsLeft--;
