@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("splodeyCats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+303843753de70b5de042d733f30f73c47bf325d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("splodeyCats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("splodeyCats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

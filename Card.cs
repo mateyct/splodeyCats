@@ -14,6 +14,7 @@ namespace splodeyCats {
         
         public Card(string name) {
             this.name = name;
+            // cool
         }
     }
 }
